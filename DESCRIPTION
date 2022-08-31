@@ -1,0 +1,13 @@
+Package: barplot.effects
+Type: Package
+Title: generates barplot of two variables, with selected color.
+Version: 0.1.0
+Author: Leyla and Islam
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: basically takes two columns of variables and compares them to each other, let's say, we have a data on consumption of different drugs if different countries, we select the data and give x and y a column for each,for example countries and cocain consumption or any other drug, and the output will give us the barplot of them.
+License: file LICENSE
+Imports: dplyr , ggplot2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+
